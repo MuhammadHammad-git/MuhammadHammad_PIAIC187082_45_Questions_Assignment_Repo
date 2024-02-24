@@ -1,0 +1,5 @@
+Installed node
+Installed Typescript
+Installed Vscode
+Installed git
+Created Repository
